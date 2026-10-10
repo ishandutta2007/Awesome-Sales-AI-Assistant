@@ -22,6 +22,7 @@
 - [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚠️ Disclaimer & Compliance](#%EF%B8%8F-disclaimer--compliance)
 - [📈 Star History](#-star-history)
 
@@ -82,6 +83,22 @@ Contributions are welcome and appreciated! Follow these steps to submit a projec
 2. Add your entry to either the **SaaS Table** or **Open-Source Table** following the existing column structure.
 3. Ensure all links, descriptions, pricing/star details, and licensing details are accurate.
 4. Open a **Pull Request** with a brief summary of the added tool.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and supporting this curated resource! If you find this repository helpful, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** it with your developer and revenue operations network.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing open-source curation and development, you can sponsor via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-Sponsor%20me%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor me on GitHub" />
+  </a>
+</p>
 
 ---
 
