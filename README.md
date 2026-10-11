@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-AI-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-AI-Assistant?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-AI-Assistant/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-AI-Assistant?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-AI-Assistant/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-AI-Assistant?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-AI-Assistant/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Sales-AI-Assistant?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -55,9 +55,9 @@ The table below outlines leading enterprise SaaS platforms in the Sales AI space
 
 ## 💻 Open-Source GitHub Projects
 
-Below is a curated selection of open-source Sales AI projects, agent frameworks, and self-hosted tools, sorted by **GitHub Star Count (descending)**.
+Below is a curated selection of open-source Sales AI projects, agent frameworks, and self-hosted tools, sorted by **GitHub Stars_Count (descending)**.
 
-| Project & Repo | Description & Key Features | Stars | Tech Stack & License |
+| Project & Repo | Description & Key Features | GitHub_Stars | Tech Stack & License |
 | :--- | :--- | :--- | :--- |
 | 💬 **[DeskcommCRM](https://github.com/melgarafael/DeskcommCRM)** | Open-source AI sales OS & self-hosted CRM with native AI agents + WhatsApp (WAHA) integration. Open alternative to Kommo & Intercom. | [![Stars](https://img.shields.io/github/stars/melgarafael/DeskcommCRM?style=social&color=white)](https://github.com/melgarafael/DeskcommCRM/stargazers) | TypeScript, Node.js • LGPD |
 | 🧠 **[ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)** | Open-source AI marketing & sales skills — growth experiments, sales pipeline automation, outbound lead generation, and content ops. | [![Stars](https://img.shields.io/github/stars/ericosiu/ai-marketing-skills?style=social&color=white)](https://github.com/ericosiu/ai-marketing-skills/stargazers) | Python, AI Skills • MIT |
